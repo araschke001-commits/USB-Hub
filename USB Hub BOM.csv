@@ -1,0 +1,6 @@
+Name,Description,Quantity,Total Price,Link,Distributor
+Screws,M2x5mm Hex Socket Screws,50,$1.54,https://www.aliexpress.us/item/3256804883804669.html,AliExpress
+Heatset Inserts,M2xL3xOD3 Brass Heatset Inserts,50,$3.19,https://www.aliexpress.us/item/3256805885174058.html,AliExpress
+3d Printed Case,"The case, printed with Printing Legion",1,$6.00,,Printing Legion
+PCB,"The PCB, made and assembled by JLCPCB",1,$34.61,,JLCPCB
+Total,,102,$45.34,,"2 AliExpress, 1 Printing Legion, 1 JLCPCB"
