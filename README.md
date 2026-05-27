@@ -34,3 +34,10 @@ This should be all of the parts needed to make the USB Hub:
 - M3xL3xOD3 Brass Heatset Inserts
 - 3d printed case, top and bottom
 - Assembled PCB, with resistors, capacitors, and USB ports
+
+## Build Instructions
+To make this USB Hub, these are the steps you need to take:
+1. Order all of the parts from the BOM, getting the PCB assembled by JLCPCB.
+2. Insert the heatset inserts into the spots for them on the case, making sure not to insert them too far.
+3. Put the PCB into the case. You should be able to just rotate it in.
+4. Screw the PCB onto the case (don't overtighten) and screw the lid onto the case.
