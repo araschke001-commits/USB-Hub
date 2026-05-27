@@ -1,6 +1,10 @@
 # USB-Hub
 This is a USB hub made from the tutorial on Hack Club Macondo.
 
+You would use it by plugging the upstream port into your computer and plugging the downstream ports into whatever you want to power or connect to your computer.
+
+I made this so I could get better experience making PCBs and designing things in CAD. I also just wanted a USB Hub and what's a better way to get one than by making it yourself?
+
 ## 3d Printed Case
 The case I made has a top and a bottom to allow the PCB to be inserted for assembly, along with variables to easily edit dimensions of the case.
 
