@@ -20,10 +20,10 @@ I made it using Onshape.
 I made the PCB using EasyEda. It has a USB C port for the upstream port and 3 USB A ports with 1 USB C port for the downstream ports. It has the tab sticking out of it so it can rotate into the case for assembly.
 
 Schematic:
-<img width="1272" height="896" alt="USB hub schematic" src="https://github.com/user-attachments/assets/6328b9a0-7ae1-4099-935d-9fa20ff7f9ba" />
+<img width="1238" height="876" alt="USB Hub Schematic" src="https://github.com/user-attachments/assets/c6ca1d01-f38a-4dab-9b34-eaade1410180" />
 
 PCB:
-<img width="1799" height="871" alt="USB hub pcb" src="https://github.com/user-attachments/assets/55159ee8-96ba-4f31-bba3-efe0d8a4e03e" />
+<img width="1468" height="583" alt="USB Hub PCB" src="https://github.com/user-attachments/assets/143bf281-5da7-4e84-823a-d9c824e0cc3d" />
 
 3d Model:
 <img width="1271" height="579" alt="USB hub pcb model" src="https://github.com/user-attachments/assets/7732a143-6f86-441f-b639-788ecc05a376" />
