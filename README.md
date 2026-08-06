@@ -19,6 +19,9 @@ I made it using Onshape.
 ## PCB
 I made the PCB using EasyEda. It has a USB C port for the upstream port and 3 USB A ports with 1 USB C port for the downstream ports. It has the tab sticking out of it so it can rotate into the case for assembly.
 
+This is the site you can find it at:
+<https://oshwlab.com/aiden37/project_ztrqtjko>
+
 Schematic:
 <img width="1238" height="876" alt="USB Hub Schematic" src="https://github.com/user-attachments/assets/c6ca1d01-f38a-4dab-9b34-eaade1410180" />
 
