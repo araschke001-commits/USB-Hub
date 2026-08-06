@@ -1,4 +1,4 @@
-# USB-Hub
+# The Bridge V1.0
 This is a USB hub made from the tutorial on Hack Club Macondo.
 
 You would use it by plugging the upstream port into your computer and plugging the downstream ports into whatever you want to power or connect to your computer.
